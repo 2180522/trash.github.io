@@ -1,0 +1,2 @@
+# trash.github.io
+trash
